@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+Welcome to my repository! 
+I'm a junior developer, and here is a showcase of my work:
+
+* **Projects 01–06:** Exercises and projects from my Python / testing course.
+* **Page-about-me & Page-iPhone-17:** The beginning of my journey into JavaScript and front-end development.
+* **Star-Wars-battle:** An interactive project based on something I love.
+* **React & Firebase:** My transition into React, including **hp-characters** and **to-do-list** (integrated with Firebase Database).
+
 <!--
 **Gippel33/Gippel33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
