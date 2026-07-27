@@ -1,7 +1,7 @@
-## Hi there 👋
+# Hi there 👋
 
-Welcome to my repository! 
-I'm a junior developer, and here is a showcase of my work:
+## Welcome to my repository! 
+## I'm a junior developer, and here is a showcase of my work:
 
 * **Projects 01–06:** Exercises and projects from my Python / testing course.
 * **Page-about-me & Page-iPhone-17:** The beginning of my journey into JavaScript and front-end development.
