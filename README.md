@@ -7,9 +7,8 @@ I'm a junior developer, and here is a showcase of my work:
 * **Page-about-me & Page-iPhone-17:** The beginning of my journey into JavaScript and front-end development.
 * **Star-Wars-battle:** An interactive project based on something I love.
 * **React & Firebase:** My transition into React, including **hp-characters** and **to-do-list** (integrated with Firebase Database).
- * 🧙‍♂️ [HP Characters Live Web](https://hp-characters-23af7.web.app)
- * 📝 [To-Do List Live Web](https://to-do-list-ee58b.web.app)
-
+ * 🧙‍♂️ [HP Characters Live Web](hp-characters-23af7.web.app)
+ * 📝 [To-Do List Live Web](to-do-list-ee58b.web.app)
 <!--
 **Gippel33/Gippel33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
